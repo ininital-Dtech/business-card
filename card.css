@@ -1,0 +1,24 @@
+body{
+    margin: 10px;
+}
+.main{
+    text-align: center;
+    width: 500px;
+    display: flex;
+    padding: 20px;
+    border: 2px dotted blue;
+    justify-content: space-around;
+    background-color: #ddebf8;
+    border-bottom: 7px solid #d8cefe;
+    color: black;
+}
+.font-t {
+    margin-left: 5px;
+}
+.dotted-blue{
+    border: 1px dotted blue;
+}
+
+.avatar{
+    width: 150px;
+}
